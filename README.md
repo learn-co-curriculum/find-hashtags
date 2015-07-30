@@ -1,8 +1,4 @@
----
-tags: regex, regular expressions, arrays, iteration, strings, bonus
-language: ruby
-resources: 2
----
+
 
 # Find the Hashtags
 
