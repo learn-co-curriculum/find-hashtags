@@ -26,4 +26,4 @@ Test your regex with [Rubular](http://rubular.com/)
 
 [Regex Anchors](http://www.regular-expressions.info/anchors.html)
 
-<a href='https://learn.co/lessons/find-hashtags' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/find-hashtags' title='Find the Hashtags'>Find the Hashtags</a> on Learn.co and start learning to code for free.</p>
